@@ -1,0 +1,5 @@
+/home/icastilho/workspace/addresscrud/src/main/java/br/com/test/AddressCrudApplication.java
+/home/icastilho/workspace/addresscrud/src/main/java/br/com/test/AddressController.java
+/home/icastilho/workspace/addresscrud/src/main/java/br/com/test/repository/AddressRepository.java
+/home/icastilho/workspace/addresscrud/src/main/java/br/com/test/domain/Address.java
+/home/icastilho/workspace/addresscrud/src/main/java/br/com/test/ServletInitializer.java

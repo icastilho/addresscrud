@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: AddressCRUD
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: icastilho
+Implementation-Vendor-Id: br.com.test
+Build-Jdk: 1.8.0_40-internal
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+Main-Class: br.com.test.AddressCrudApplication
+
