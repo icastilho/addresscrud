@@ -1,1 +1,1 @@
-java -jar
+java -jar addresscrud.jar
