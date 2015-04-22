@@ -31,7 +31,7 @@ To change go to src/main/resources/application.properties
 					"cep": "01504001"
 					}
 * Get a Address by Id - GET request - http://localhost:8080/address/{id}
-* Update a Address - PUT request - http://localhost:8080/address{id}
+* Update a Address - PUT request - http://localhost:8080/address/{id}
 	- Json Example: {
 					"street":"R. Vergueiro",
 					"number": 945,
